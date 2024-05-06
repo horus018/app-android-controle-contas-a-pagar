@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContasPagarLucasRubira</string>
+    <string name="category_name">Nombre de la categoría</string>
+    <string name="salve">Guardar</string>
+    <string name="expense">Gasto:</string>
+    <string name="placeholder_expense_name">Ejemplo: gastos de la casa</string>
+    <string name="placeholder_date_maturity">00/00/0000</string>
+    <string name="confirmation">Aceptar</string>
+    <string name="value">Valor: </string>
+    <string name="value_before">Valor: €</string>
+    <string name="placeholder_value">€</string>
+    <string name="date_maturity">Vencimiento: </string>
+    <string name="placeholder_category_name">Ingrese el nombre de la categoría</string>
+    <string name="add">Agregar</string>
+    <string name="number_of_expenses">Número de cuentas: </string>
+    <string name="total_value">Valor total: R$ 0,00</string>
+    <string name="total_value_before">Valor total: € </string>
+    <string name="enter_category_name">Necesitas escribir el nombre de la categoría para añadirla</string>
+    <string name="cancel">Cancelar</string>
+    <string name="yes">Sí</string>
+    <string name="confirm_remove_category">¿Estás seguro de que deseas eliminar esta categoría?</string>
+    <string name="select_category_remove">Necesitas seleccionar una categoría para eliminarla de la lista</string>
+    <string name="select_category_edit">Necesitas seleccionar una categoría para editarla</string>
+    <string name="provide_category_name">Necesitas proporcionar el nombre de la categoría para cambiarla</string>
+    <string name="finish_editing_expense">Necesitas terminar de editar el gasto antes de guardar la categoría</string>
+    <string name="fill_all_fields">Por favor, completa todos los campos</string>
+    <string name="confirm_remove_expense">¿Estás seguro de que deseas eliminar este gasto?</string>
+    <string name="select_expense_remove">Necesitas seleccionar un gasto para eliminarlo de la lista</string>
+    <string name="select_expense_edit">Necesitas seleccionar un gasto para editarlo</string>
+    <string name="invalid_selected_category">Categoría seleccionada no válida</string>
+</resources>

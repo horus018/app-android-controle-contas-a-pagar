@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContasPagarLucasRubira</string>
+    <string name="category_name">Category name</string>
+    <string name="salve">Save</string>
+    <string name="expense">Expense:</string>
+    <string name="placeholder_expense_name">Ex: house expenses</string>
+    <string name="placeholder_date_maturity">00/00/0000</string>
+    <string name="confirmation">Ok</string>
+    <string name="value">Value: </string>
+    <string name="value_before">Value: $</string>
+    <string name="placeholder_value">$</string>
+    <string name="date_maturity">Date Maturity: </string>
+    <string name="placeholder_category_name">Type the name of the category</string>
+    <string name="add">Add</string>
+    <string name="number_of_expenses">Number of expenses: </string>
+    <string name="total_value">Total value: $ 0.00</string>
+    <string name="total_value_before">Total value: $ </string>
+    <string name="enter_category_name">You need to type the category name to add it</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="confirm_remove_category">Are you sure you want to remove this category?</string>
+    <string name="select_category_remove">You need to select a category to remove it from the list</string>
+    <string name="select_category_edit">You need to select a category to edit it</string>
+    <string name="provide_category_name">You need to provide the category name to change it</string>
+    <string name="finish_editing_expense">You need to finish editing the expense before saving the category</string>
+    <string name="fill_all_fields">Please fill in all fields</string>
+    <string name="confirm_remove_expense">Are you sure you want to remove this expense?</string>
+    <string name="select_expense_remove">You need to select an expense to remove it from the list</string>
+    <string name="select_expense_edit">You need to select an expense to edit it</string>
+    <string name="invalid_selected_category">Invalid selected category</string>
+</resources>

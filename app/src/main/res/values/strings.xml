@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ContasPagarLucasRubira</string>
+    <string name="category_name">Nome da categoria</string>
+    <string name="salve">Salvar</string>
+    <string name="expense">Despesa:</string>
+    <string name="placeholder_expense_name">Ex: despesas da casa</string>
+    <string name="value">Valor: </string>
+    <string name="value_before">Valor: R$</string>
+    <string name="placeholder_value">R$</string>
+    <string name="date_maturity">Vencimento: </string>
+    <string name="placeholder_date_maturity">00/00/0000</string>
+    <string name="confirmation">Ok</string>
+    <string name="placeholder_category_name">Digite o nome da categoria</string>
+    <string name="add">Adicionar</string>
+    <string name="number_of_expenses">Número de contas: </string>
+    <string name="total_value">Valor total: R$ 0,00</string>
+    <string name="total_value_before">Valor total: R$ </string>
+    <string name="enter_category_name">Você precisa digitar o nome da categoria para adicioná-la</string>
+    <string name="cancel">Cancelar</string>
+    <string name="yes">Sim</string>
+    <string name="confirm_remove_category">Tem certeza que deseja remover esta categoria?</string>
+    <string name="select_category_remove">Você precisa selecionar uma categoria para removê-la da lista</string>
+    <string name="select_category_edit">Você precisa selecionar uma categoria para editá-la</string>
+    <string name="provide_category_name">Você precisa informar o nome da categoria para alterá-la</string>
+    <string name="finish_editing_expense">Você precisa terminar de editar a despesa antes de salvar a categoria</string>
+    <string name="fill_all_fields">Por favor, preencha todos os campos</string>
+    <string name="confirm_remove_expense">Tem certeza que deseja remover esta despesa?</string>
+    <string name="select_expense_remove">Você precisa selecionar uma despesa para removê-la da lista</string>
+    <string name="select_expense_edit">Você precisa selecionar uma despesa para editá-la</string>
+    <string name="invalid_selected_category">Categoria selecionada inválida</string>
+</resources>

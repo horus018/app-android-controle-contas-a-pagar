@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContasPagarLucasRubira</string>
+    <string name="category_name">Nome da categoria</string>
+    <string name="salve">Salvar</string>
+    <string name="expense">Despesa:</string>
+    <string name="placeholder_expense_name">Ex: despesas da casa</string>
+    <string name="placeholder_date_maturity">00/00/0000</string>
+    <string name="confirmation">Ok</string>
+    <string name="value">"Valor: "</string>
+    <string name="placeholder_value">R$</string>
+    <string name="date_maturity">"Vencimento: "</string>
+    <string name="placeholder_category_name">Digite o nome da categoria</string>
+    <string name="add">Adicionar</string>
+    <string name="number_of_expenses">Numero de contas: 0</string>
+    <string name="total_value">Valor total: R$ 0,00</string>
+</resources>
